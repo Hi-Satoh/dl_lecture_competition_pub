@@ -17,7 +17,7 @@ from torchvision import transforms
 ##
 ##################
 ##   機能試験
-##
+##   機能きのう
 ##
 ##################
 
