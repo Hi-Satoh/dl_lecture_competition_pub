@@ -11,7 +11,11 @@ import torch.nn as nn
 import torchvision
 from torchvision import transforms
 
-
+##################
+##   昨日試験
+##
+##
+##################
 def set_seed(seed):
     random.seed(seed)
     np.random.seed(seed)
